@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "41939735200",
+    "project_id": "budget-2934d",
+    "storage_bucket": "budget-2934d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41939735200:android:2524c38b200d15d6f82fc5",
+        "android_client_info": {
+          "package_name": "com.example.budget_recorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41939735200-6knm49hrdrku94vg7qnd4vj6l4s8pni3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Eq3xFrQir7ITyYIPLOKwzOQziF08M4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41939735200-6knm49hrdrku94vg7qnd4vj6l4s8pni3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
